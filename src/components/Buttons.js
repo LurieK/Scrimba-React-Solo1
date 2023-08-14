@@ -1,5 +1,5 @@
-import Link from "./link.png"
-import GitHub from "./github-mark.png"
+import Link from "./img/link.png"
+import GitHub from "./img/github-mark.png"
 
 function Buttons(){
 

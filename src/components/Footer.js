@@ -1,6 +1,6 @@
-import LinkedIn from "./linkedin3.png"
-import GitHubWhite from "./github-mark-white.png"
-import Email from "./email.png"
+import LinkedIn from "./img/linkedin3.png"
+import GitHubWhite from "./img/github-mark-white.png"
+import Email from "./img/email.png"
 
 
 function Footer(){
