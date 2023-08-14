@@ -22,3 +22,10 @@ body {
 .photo {
   width: 100%;
 }
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+}
