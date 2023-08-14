@@ -12,6 +12,7 @@ export default function App() {
       <Info/>
       <Buttons/>
       <About/>
+      <Footer/>
     </div>
   )
 }
