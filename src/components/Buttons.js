@@ -5,7 +5,7 @@ function Buttons(){
 
     return (
         <div>
-            <a href="https://luriekimmerledev.com/" class='linked'>
+            <a href="https://luriekimmerledev.com/" class='link'>
                 <img src={Link}/>
                 Portfolio
             </a>
