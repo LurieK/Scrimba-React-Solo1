@@ -30,4 +30,15 @@ body {
 .info h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 25px;
+  margin: 5px auto;
+}
+
+.info h3 {
+  font-weight: 300;
+  margin: 5px auto;
+}
+
+.info h4 {
+  font-weight: 100;
+  margin: 5px auto;
 }
