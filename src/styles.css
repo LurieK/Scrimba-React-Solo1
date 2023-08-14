@@ -1,4 +1,122 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+
+body {
+  background-color: black;
+  font-family: 'Heebo', sans-serif;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #494949;
+}
+
+.card {
+  background-color: white;
+  width: 65%;
+  
+  
+}
+
+.photo {
+  width: 100%;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  border-bottom: 1px solid #373b6b;
+  padding-bottom: 10px;
+
+}
+
+.info h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  margin: 5px auto;
+}
+
+.info h3 {
+  font-weight: 300;
+  margin: 5px auto;
+  
+}
+
+.info h4 {
+  font-weight: 300;
+  margin: 5px auto;
+  
+}
+
+.buttons{
+  display: flex;
+  flex-flow: row;
+}
+
+.link {
+  background-color: #b2a300;
+  color: black;
+  width: 90px;
+  margin-right: 5px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  padding: 5px;
+
+}
+
+.github {
+  background-color: #b2a300;
+  color: black;
+  width: 90px;
+  margin-right: 5px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.link img{
+  width: 20px;
+  margin-right: 2px;
+}
+
+.github img {
+  width: 20px;
+  margin-right: 2px;
+}
+
+.about {
+  margin: 0 15px;
+  
+}
+
+.about h3 {
+  font-weight: 300px;
+  margin-bottom: 5px;
+}
+
+.about p {
+  margin-top: 0px;
+}
+
+.footer{
+  background-color:#373b6b;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  
+}
+
+.footer a img {
+  width: 20px;
+  margin-right: 10px;
+
 }
