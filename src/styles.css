@@ -44,27 +44,44 @@ body {
 }
 
 .info h4 {
-  font-weight: 100;
+  font-weight: 300;
   margin: 5px auto;
   
 }
 
+.buttons{
+  display: flex;
+  flex-flow: row;
+}
+
 .link {
+  background-color: #b2a300;
   color: black;
-  border: 1px solid black;
-  width: 75px;
+  /* border: 1px solid black; */
+  width: 90px;
   margin-right: 5px;
   height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  padding: 5px;
+
 
 }
 
 .github {
-  background-color: white;
+  background-color: #b2a300;
   color: black;
-  border: 1px solid black;
-  width: 75px;
+  /* border: 1px solid black; */
+  width: 90px;
   margin-right: 5px;
   height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  padding: 5px;
 }
 
 .link img{
@@ -83,6 +100,7 @@ body {
 }
 
 .about h3 {
+  font-weight: 300px;
   margin-bottom: 5px;
 }
 

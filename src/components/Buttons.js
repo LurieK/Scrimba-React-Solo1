@@ -4,7 +4,7 @@ import GitHub from "./github-mark.png"
 function Buttons(){
 
     return (
-        <div>
+        <div className="buttons">
             <a href="https://luriekimmerledev.com/" class='link'>
                 <img src={Link}/>
                 Portfolio
