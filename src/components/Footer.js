@@ -6,7 +6,7 @@ import Email from "./email.png"
 function Footer(){
 
     return (
-        <div>
+        <div className="footer">
             <img src={GitHubWhite}alt="github"/>
             <img src={LinkedIn} alt="LinkedIn"/>
             <img src={Email}alt="email"/>
