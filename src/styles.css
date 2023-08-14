@@ -16,4 +16,9 @@ body {
 .card {
   background-color: white;
   width: 50%;
+  
+}
+
+.photo {
+  width: 100%;
 }
