@@ -12,7 +12,7 @@ body {
 
 .card {
   background-color: white;
-  width: 50%;
+  width: 70%;
   
 }
 
@@ -46,17 +46,27 @@ body {
 .linkedIn {
   background-color: #0b66c2;
   color: white;
+  border: 0;
+  width: 75px;
+  margin-right: 5px;
+  height: 30px;
 }
 
-github {
+.github {
   background-color: white;
   color: black;
+  border: 2px solid black;
+  width: 75px;
+  margin-right: 5px;
+  height: 30px;
 }
 
 .linkedIn img{
-  width: 10px
+  width: 10px;
+  margin-right: 2px;
 }
 
 .github img {
   width: 10px;
+  margin-right: 2px;
 }
