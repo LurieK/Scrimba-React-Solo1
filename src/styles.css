@@ -70,3 +70,12 @@ body {
   width: 10px;
   margin-right: 2px;
 }
+
+.about {
+  margin-left: 10px;
+  border-top: 3px solid black;
+}
+
+.about h3 {
+  
+}
