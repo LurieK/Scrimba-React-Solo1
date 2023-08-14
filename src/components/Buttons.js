@@ -2,8 +2,8 @@ function Buttons(){
 
     return (
         <div>
-            <button>LinkedIn</button>
-            <button>GitHub</button>
+            <button class='linkedIn'>LinkedIn</button>
+            <button class= "github">GitHub</button>
         </div>
     )
 }
