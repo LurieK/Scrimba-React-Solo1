@@ -1,8 +1,19 @@
 .App {
   font-family: sans-serif;
-  text-align: center;
+ 
 }
 
 body {
   background-color: #494949;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: white;
+  width: 50%;
 }
