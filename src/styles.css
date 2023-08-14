@@ -1,10 +1,7 @@
-.App {
-  font-family: sans-serif;
- 
-}
 
 body {
   background-color: #494949;
+  font-family: 'Heebo', sans-serif;
 }
 
 #root {
@@ -28,4 +25,9 @@ body {
   align-items: center;
   justify-content: center;
   flex-flow: column;
+}
+
+.info h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
 }
