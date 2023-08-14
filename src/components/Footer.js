@@ -4,7 +4,6 @@ function Footer(){
         <div>
             <img alt="github"/>
             <img alt="LinkedIn"/>
-            <img alt="Portfolio"/>
             <img alt="email"/>
         </div>
     )
