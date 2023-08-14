@@ -1,7 +1,6 @@
 import "./styles.css";
 import Photo from "./components/Photo.js"
 import Info from "./components/Info.js"
-import Buttons from "./components/Buttons.js"
 import About from "./components/About.js"
 import Footer from "./components/Footer.js"
 
@@ -10,7 +9,6 @@ export default function App() {
     <div>
       <Photo/>
       <Info/>
-      <Buttons/>
       <About/>
       <Footer/>
     </div>
