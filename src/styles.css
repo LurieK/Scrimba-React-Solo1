@@ -1,6 +1,6 @@
 
 body {
-  background-color: #494949;
+  background-color: black;
   font-family: 'Heebo', sans-serif;
 }
 
@@ -8,6 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #494949;
 }
 
 .card {
@@ -32,18 +33,20 @@ body {
 
 .info h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 25px;
+  font-size: 20px;
   margin: 5px auto;
 }
 
 .info h3 {
   font-weight: 300;
   margin: 5px auto;
+  font-size: 16px
 }
 
 .info h4 {
   font-weight: 100;
   margin: 5px auto;
+  font-size: 12px;
 }
 
 .linkedIn {
@@ -85,6 +88,7 @@ body {
 
 .about p {
   margin-top: 0px;
+  font-size: 10px;
 }
 
 .footer{
