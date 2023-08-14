@@ -25,7 +25,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-flow: column;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
   padding-bottom: 10px;
 
 }
