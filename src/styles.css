@@ -43,6 +43,20 @@ body {
   margin: 5px auto;
 }
 
-.linkedin {
-  
+.linkedIn {
+  background-color: #0b66c2;
+  color: white;
+}
+
+github {
+  background-color: white;
+  color: black;
+}
+
+.linkedIn img{
+  width: 10px
+}
+
+.github img {
+  width: 10px;
 }

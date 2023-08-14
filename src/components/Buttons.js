@@ -1,4 +1,5 @@
 import LinkedIn from "./linkedin3.png"
+import GitHub from "./github-mark.png"
 
 function Buttons(){
 
@@ -8,7 +9,10 @@ function Buttons(){
                 <img src={LinkedIn}/>
                 LinkedIn
             </button>
-            <button class= "github">GitHub</button>
+            <button class= "github">
+                <img src={GitHub}/>
+                GitHub
+            </button>
         </div>
     )
 }
