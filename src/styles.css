@@ -90,8 +90,13 @@ body {
 .footer{
   background-color:#373b6b;
   color: white;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+  
 }
 
 .footer img {
   width: 30px;
+
 }
