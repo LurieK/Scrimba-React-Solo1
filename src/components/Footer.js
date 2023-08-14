@@ -7,18 +7,21 @@ function Footer(){
 
     return (
         <div className="footer">
+            <a href="https://github.com/LurieK/">
             <img src={GitHubWhite}
-                alt="github"
-                href="https://github.com/LurieK/"
-                />
-            <img src={LinkedIn} 
+                alt="github"/>
+               </a>
+            <a href="https://www.linkedin.com/in/lurie-kimmerle/">
+                <img src={LinkedIn} 
                 alt="LinkedIn"
                 href="https://www.linkedin.com/in/lurie-kimmerle/"
                 />
-            <img src={Email}
+                </a>
+            <a href="mailto:LuraineKimmerle@gmail.com">
+                <img src={Email}
                 alt="email"
-                href="mailto:LuraineKimmerle@gmail.com"
                 />
+                </a>
         </div>
     )
 }

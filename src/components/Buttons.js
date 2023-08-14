@@ -1,18 +1,20 @@
-import LinkedIn from "./linkedin3.png"
+import Link from "./link.png"
 import GitHub from "./github-mark.png"
 
 function Buttons(){
 
     return (
         <div>
-            <button class='linkedIn'>
-                <img src={LinkedIn}/>
-                LinkedIn
-            </button>
-            <button class= "github">
+            <a href="https://luriekimmerledev.com/" class='linked'>
+                <img src={Link}/>
+                Portfolio
+            </a>
+            <a href="https://github.com/LurieK/"
+                class= "github">
                 <img src={GitHub}/>
+                
                 GitHub
-            </button>
+            </a>
         </div>
     )
 }
