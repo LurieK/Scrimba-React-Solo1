@@ -2,8 +2,9 @@
 # Scrimba Solo1
 
 This project reinforced the basics of components using React, JavaScript, and CSS. 
+
 <p align="center">
-  <img src="solo1_preview.png" alt="preview" />
+  <img src="solo1_preview.png" alt="preview" width="300"/>
 </p>
 
 ## Technology Used
@@ -20,19 +21,19 @@ The main component of the application that imports the `Photo`, `Info`, `About`,
 
 ### `Photo.js`
 
-Displays a headshot photo of Lurie Kimmerle.
+Displays a fun headshot made with AI.
 
 ### `Info.js`
 
-Contains the main information about Lurie, including her name, title, and expertise, along with buttons linking to her portfolio and GitHub.
+Contains the main information about me, including name, title, and expertise, along with buttons linking to my portfolio and GitHub.
 
 ### `About.js`
 
-Provides detailed information about Lurie's background and interests, including her passion for ancient history and excitement about AI's impact on frontend development.
+Provides detailed information about my background and interests, including my passion for ancient history and excitement about AI's impact on frontend development.
 
 ### `Footer.js`
 
-A footer component that includes links to Lurie's GitHub, LinkedIn, and email.
+A footer component that includes links to my GitHub, LinkedIn, and email.
 
 ### `styles.css`
 
